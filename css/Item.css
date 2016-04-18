@@ -1,0 +1,21 @@
+div.img
+{
+
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+div.img img
+{
+    display: inline;
+    width: 180px;
+    height: 180px;
+}
+div.desc
+{
+    text-align: center;
+    font-weight: normal;
+    width: 180px;
+    margin: 2px;
+}
